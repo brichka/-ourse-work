@@ -1,2 +1,2 @@
-# -ourse-work
+# Course-work
 Курсовая работа
